@@ -73,11 +73,6 @@ You will learn:
 
 ---
 
-Absolutely — here is the **expanded, enterprise-grade 12-week AI+DevOps skill-building roadmap**, with **every module broken into deep subtopics**, **links**, **hands-on labs**, and **project specifications**.
-This is *the* roadmap to transform a DevOps/Platform Engineer into an **AI Platform Engineer + LLM/MCP Agentic Systems Expert**.
-
----
-
 # 🧭 **12-WEEK DEEP-DIVE AI PLATFORM ENGINEER ROADMAP**
 
 *(All modules expanded with detailed topics)*
